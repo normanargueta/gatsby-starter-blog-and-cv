@@ -82,10 +82,10 @@ img {
 
 .post {
   padding: 5% 7% 0%;
+  border-bottom: 1px solid #a7adba;
 }
 
 .post.post-featured {
-  margin: 5px 0;
   background: #fff;
 }
 
